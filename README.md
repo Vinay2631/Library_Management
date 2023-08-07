@@ -1,4 +1,4 @@
-# LibraryMnagementSystem
+# Library_Management_System
 This is the flow of the project
 SignUp page
 ![Screenshot 2023-07-13 122224](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/0af95caf-2455-420f-8ab5-3561652d8e3a)
